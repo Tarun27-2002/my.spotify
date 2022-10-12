@@ -28,7 +28,7 @@ function Spotify() {
         },
       })
       // console.log("data",data)
-      const userInfo = {
+      const userInfo = {java script
         userId : data.id, 
         userName:data.display_name,
         imgUrl:data.images[0].url, 
